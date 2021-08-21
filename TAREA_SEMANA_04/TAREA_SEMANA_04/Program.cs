@@ -82,7 +82,7 @@ namespace TAREA_SEMANA_04
                 }
 
                 Console.WriteLine("\n--------------------------------------------------------------------------");
-                Console.Write("¿DESEA REGREAR AL MENU S/N?: ");
+                Console.Write("¿DESEA REGRESAR AL MENU S/N?: ");
                 sn = Console.ReadLine();
                 Console.WriteLine("--------------------------------------------------------------------------");
 

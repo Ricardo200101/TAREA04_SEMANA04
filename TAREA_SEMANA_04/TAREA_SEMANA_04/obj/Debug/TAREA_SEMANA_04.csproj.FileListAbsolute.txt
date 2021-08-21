@@ -10,3 +10,13 @@ C:\Users\Ricardo Alvarez\source\repos\TAREA_SEMANA_04\TAREA_SEMANA_04\obj\Debug\
 C:\Users\Ricardo Alvarez\source\repos\TAREA_SEMANA_04\TAREA_SEMANA_04\bin\Debug\Biblioteca_2.pdb
 C:\Users\Ricardo Alvarez\source\repos\TAREA_SEMANA_04\TAREA_SEMANA_04\bin\Debug\Biblioteca_2.dll
 C:\Users\Ricardo Alvarez\source\repos\TAREA_SEMANA_04\TAREA_SEMANA_04\bin\Debug\Salario.dll
+C:\Users\Ricardo Alvarez\Desktop\ejemplo\TAREA04_SEMANA04\TAREA_SEMANA_04\TAREA_SEMANA_04\bin\Debug\TAREA_SEMANA_04.exe.config
+C:\Users\Ricardo Alvarez\Desktop\ejemplo\TAREA04_SEMANA04\TAREA_SEMANA_04\TAREA_SEMANA_04\bin\Debug\TAREA_SEMANA_04.exe
+C:\Users\Ricardo Alvarez\Desktop\ejemplo\TAREA04_SEMANA04\TAREA_SEMANA_04\TAREA_SEMANA_04\bin\Debug\TAREA_SEMANA_04.pdb
+C:\Users\Ricardo Alvarez\Desktop\ejemplo\TAREA04_SEMANA04\TAREA_SEMANA_04\TAREA_SEMANA_04\bin\Debug\Biblioteca_2.pdb
+C:\Users\Ricardo Alvarez\Desktop\ejemplo\TAREA04_SEMANA04\TAREA_SEMANA_04\TAREA_SEMANA_04\bin\Debug\Salario.pdb
+C:\Users\Ricardo Alvarez\Desktop\ejemplo\TAREA04_SEMANA04\TAREA_SEMANA_04\TAREA_SEMANA_04\obj\Debug\TAREA_SEMANA_04.csproj.AssemblyReference.cache
+C:\Users\Ricardo Alvarez\Desktop\ejemplo\TAREA04_SEMANA04\TAREA_SEMANA_04\TAREA_SEMANA_04\obj\Debug\TAREA_SEMANA_04.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Alvarez\Desktop\ejemplo\TAREA04_SEMANA04\TAREA_SEMANA_04\TAREA_SEMANA_04\obj\Debug\TAREA_SEMANA_04.csproj.CopyComplete
+C:\Users\Ricardo Alvarez\Desktop\ejemplo\TAREA04_SEMANA04\TAREA_SEMANA_04\TAREA_SEMANA_04\obj\Debug\TAREA_SEMANA_04.exe
+C:\Users\Ricardo Alvarez\Desktop\ejemplo\TAREA04_SEMANA04\TAREA_SEMANA_04\TAREA_SEMANA_04\obj\Debug\TAREA_SEMANA_04.pdb
